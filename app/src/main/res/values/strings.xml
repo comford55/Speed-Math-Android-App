@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Java SpeedMath</string>
+    <string-array name="ArrayOperator">
+        <item>+</item>
+        <item>-</item>
+    </string-array>
+</resources>
